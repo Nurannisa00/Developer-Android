@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/button05"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="changeColor"
+        android:text="BUTTON 05"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintVertical_bias="0.916"
+        android:layout_marginBottom="18dp"
+        android:backgroundTint="@color/purple_200"
+        />
+
+    <Button
+        android:id="@+id/button01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_alarm"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:backgroundTint="@color/purple_200"
+        />
+
+    <Button
+        android:id="@+id/button02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="4dp"
+        android:drawableRight="@drawable/ic_search"
+        android:text="SEARCH"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button01"
+        android:backgroundTint="@color/purple_200"
+        />
+
+    <Button
+        android:id="@+id/button03"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="BUTTON 03"
+        app:layout_constraintEnd_toStartOf="@+id/button02"
+        app:layout_constraintStart_toEndOf="@+id/button01"
+        app:layout_constraintTop_toBottomOf="@+id/button02"
+        android:layout_marginTop="18dp"
+        android:backgroundTint="@color/purple_200"
+        />
+
+    <Button
+        android:id="@+id/button04"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Button 04"
+        app:layout_constraintBottom_toTopOf="@+id/button05"
+        app:layout_constraintEnd_toEndOf="@+id/button02"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/button05"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="@color/purple_200"
+        />
+
+
+</android.support.constraint.ConstraintLayout>

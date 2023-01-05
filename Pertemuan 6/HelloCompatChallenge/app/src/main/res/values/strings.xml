@@ -1,0 +1,5 @@
+<resources>
+        <string name="app_name">Challenge HelloCompat Nur Annisa</string>
+        <string name="color_button">Change Color</string>
+        <string name="Change_color">Hello World!</string>
+</resources>

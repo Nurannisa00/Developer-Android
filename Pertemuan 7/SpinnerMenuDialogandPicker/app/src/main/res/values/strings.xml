@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Spinner Menu Dialog and Picker</string>
+
+    <string-array name="asiatenggara">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapure</item>
+        <item>Brunei</item>
+        <item>Filiphina</item>
+        <item>Thailand</item>
+        <item>Kamboja</item>
+        <item>Laos</item>
+    </string-array>
+
+    <string name="alert_title">Alert Simple Dialog</string>
+    <string name="alert_message">Anda pesan ?</string>
+
+    <string name="yes_button">Yes</string>
+    <string name="no_button">No</string>
+    <string name="cancel_button">Cancel</string>
+
+    <string name="pressed_yes">Ulun pesan 2!</string>
+    <string name="pressed_no">Ulun tanang ja gin dulu !</string>
+    <string name="pressed_cancel">Ulun bingung !</string>
+    <string name="breakfast">breakfast</string>
+    <string name="lunch">lunch</string>
+    <string name="dinner">Dinner</string>
+    <string name="meeting">Meeting</string>
+    <string name="party">Party</string>
+    <string name="status_breakfast">Saya sedang sarapan</string>
+    <string name="status_lunch">Saya sedang makan siang</string>
+    <string name="status_dinner">Saya sedang makan malam</string>
+    <string name="status_meeting">Saya sedang meeting</string>
+    <string name="status_party">Saya sedang party</string>
+
+
+</resources>

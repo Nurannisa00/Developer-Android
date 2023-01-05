@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Implicit challenge Nur Annisa</string>
+    <string name="list_one">Fish</string>
+    <string name="list_two">Spinach</string>
+    <string name="list_three">Water</string>
+    <string name="list_four">Spam</string>
+    <string name="list_five">Tissue</string>
+    <string name="list_six">Cucumber</string>
+    <string name="list_seven">Egg</string>
+    <string name="list_eight">Olive Oil</string>
+    <string name="list_nine">French Bread</string>
+    <string name="list_ten">Salt</string>
+    <string name="list">...</string>
+</resources>

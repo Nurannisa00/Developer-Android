@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="MENU"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        />
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        tools:layout_editor_absoluteX="54dp">
+
+        <CheckBox
+            android:id="@+id/bibimbab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bibimbab" />
+
+        <CheckBox
+            android:id="@+id/kimbab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/kimbab" />
+
+        <CheckBox
+            android:id="@+id/japchae"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/japchae" />
+
+        <CheckBox
+            android:id="@+id/ramyeon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ramyeon" />
+
+        <CheckBox
+            android:id="@+id/odeng"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/odeng" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/order"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#ffff66"
+        android:text="Order Now"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+        app:layout_constraintVertical_bias="0.057"
+        android:onClick="pesan"
+        />
+
+</android.support.constraint.ConstraintLayout>

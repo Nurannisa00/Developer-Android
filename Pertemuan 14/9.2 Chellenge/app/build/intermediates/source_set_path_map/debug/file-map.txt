@@ -1,0 +1,14 @@
+com.example.android.droidcafeinput.app-transition-26.1.0-0 C:\Users\ASUS\.gradle\caches\transforms-3\13776b890de1624008b237fb18893a58\transformed\transition-26.1.0\res
+com.example.android.droidcafeinput.app-support-media-compat-26.1.0-1 C:\Users\ASUS\.gradle\caches\transforms-3\22d32cedd5934c0eef02368327c81f9b\transformed\support-media-compat-26.1.0\res
+com.example.android.droidcafeinput.app-support-compat-26.1.0-2 C:\Users\ASUS\.gradle\caches\transforms-3\b0324809c2b8be9fe4de604a7fcc0c3c\transformed\support-compat-26.1.0\res
+com.example.android.droidcafeinput.app-design-26.1.0-3 C:\Users\ASUS\.gradle\caches\transforms-3\d9c75850c40cfcd92d4c70360f1b135e\transformed\design-26.1.0\res
+com.example.android.droidcafeinput.app-constraint-layout-1.0.2-4 C:\Users\ASUS\.gradle\caches\transforms-3\e1c5180ad5d82d570b4b45111942e96e\transformed\constraint-layout-1.0.2\res
+com.example.android.droidcafeinput.app-appcompat-v7-26.1.0-5 C:\Users\ASUS\.gradle\caches\transforms-3\eaffea3e6b20d762ee519ea2157914ce\transformed\appcompat-v7-26.1.0\res
+com.example.android.droidcafeinput.app-recyclerview-v7-26.1.0-6 C:\Users\ASUS\.gradle\caches\transforms-3\ff6971265e18d5baba3d88ebd5d36c73\transformed\recyclerview-v7-26.1.0\res
+com.example.android.droidcafeinput.app-resValues-7 C:\Users\ASUS\AndroidStudioProjects\9.2 Chellenge\app\build\generated\res\resValues\debug
+com.example.android.droidcafeinput.app-rs-8 C:\Users\ASUS\AndroidStudioProjects\9.2 Chellenge\app\build\generated\res\rs\debug
+com.example.android.droidcafeinput.app-mergeDebugResources-9 C:\Users\ASUS\AndroidStudioProjects\9.2 Chellenge\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.droidcafeinput.app-mergeDebugResources-10 C:\Users\ASUS\AndroidStudioProjects\9.2 Chellenge\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.droidcafeinput.app-merged_res-11 C:\Users\ASUS\AndroidStudioProjects\9.2 Chellenge\app\build\intermediates\merged_res\debug
+com.example.android.droidcafeinput.app-debug-12 C:\Users\ASUS\AndroidStudioProjects\9.2 Chellenge\app\src\debug\res
+com.example.android.droidcafeinput.app-main-13 C:\Users\ASUS\AndroidStudioProjects\9.2 Chellenge\app\src\main\res

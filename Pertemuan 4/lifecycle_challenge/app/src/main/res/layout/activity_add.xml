@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".add"
+android:orientation="vertical"
+    android:layout_marginStart="150dp"
+    android:layout_marginTop="90dp"
+    >
+        <Button
+            android:id="@+id/satu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/black"
+            android:textColor="@color/white"
+            android:text="@string/list_one"
+            android:onClick="add_one"
+            />
+
+        <Button
+            android:id="@+id/dua"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/black"
+            android:textColor="@color/white"
+            android:text="@string/list_two"
+            android:onClick="add_two"/>
+
+        <Button
+            android:id="@+id/tiga"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/black"
+            android:textColor="@color/white"
+            android:text="@string/list_three"
+            android:onClick="add_three"
+            />
+
+        <Button
+            android:id="@+id/empat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/black"
+            android:textColor="@color/white"
+            android:text="@string/list_four"
+            android:onClick="add_four"
+            />
+
+        <Button
+            android:id="@+id/lima"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/black"
+            android:textColor="@color/white"
+            android:text="@string/list_five"
+            android:onClick="add_five"
+            />
+
+        <Button
+            android:id="@+id/enam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/black"
+            android:textColor="@color/white"
+            android:text="@string/list_six"
+            android:onClick="add_six"
+            />
+
+        <Button
+            android:id="@+id/tujuh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/black"
+            android:textColor="@color/white"
+            android:text="@string/list_seven"
+            android:onClick="add_seven"
+            />
+
+        <Button
+            android:id="@+id/delapan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/black"
+            android:textColor="@color/white"
+            android:text="@string/list_eight"
+            android:onClick="add_eight"
+            />
+
+        <Button
+            android:id="@+id/sembilan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/black"
+            android:textColor="@color/white"
+            android:text="@string/list_nine"
+            android:onClick="add_nine"
+            />
+
+        <Button
+            android:id="@+id/sepuluh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/black"
+            android:textColor="@color/white"
+            android:text="@string/list_ten"
+            android:onClick="add_ten"
+            />
+
+
+</LinearLayout>

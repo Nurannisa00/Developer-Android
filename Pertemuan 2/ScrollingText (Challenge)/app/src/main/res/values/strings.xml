@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Challenge Scrolling Text NurAnnisa</string>
+    <string name="article_title">Mangrove forests expand and contract with a lunar cycle</string>
+    <string name="article_subtitle">The carbon-sequestering trees flourish in sync with a roughly 18-year tide cycle linked to the moon</string>
+    <string name="article" translatable="false">
+    The glossy leaves and branching roots of mangroves are downright eye-catching, and now a study finds that the moon plays a special role in the vigor of these trees.
+\n\n
+Long-term tidal cycles set in motion by the moon drive, in large part, the expansion and contraction of mangrove forests in Australia, researchers report in the Sept. 16 Science Advances. This discovery is key to predicting when stands of mangroves, which are good at sequestering carbon and could help fight climate change, are most likely to proliferate (SN: 11/18/21). Such knowledge could inform efforts to protect and restore the forests.
+\n\n
+    Mangroves are coastal trees that provide habitat for fish and buffer against erosion (SN: 9/14/22). But in some places, the forests face a range of threats, including coastal development, pollution and land clearing for agriculture. To get a bird’s-eye view of these forests, Neil Saintilan, an environmental scientist at Macquarie University in Sydney, and his colleagues turned to satellite imagery. Using NASA and U.S. Geological Survey Landsat data from 1987 to 2020, the researchers calculated how the size and density of mangrove forests across Australia changed over time.
+\n\n
+After accounting for persistent increases in these trees’ growth — probably due to rising carbon dioxide levels, higher sea levels and increasing air temperatures — Saintilan and his colleagues noticed a curious pattern. Mangrove forests tended to expand and contract in both extent and canopy cover in a predictable manner. “I saw this 18-year oscillation,” Saintilan says.
+\n\n
+        That regularity got the researchers thinking about the moon. Earth’s nearest celestial neighbor has long been known to help drive the tides, which deliver water and necessary nutrients to mangroves. A rhythm called the lunar nodal cycle could explain the mangroves’ growth pattern, the team hypothesized.
+\n\n
+Over the course of 18.6 years, the plane of the moon’s orbit around Earth slowly tips. When the moon’s orbit is the least tilted relative to our planet’s equator, semidiurnal tides — which consist of two high and two low tides each day — tend to have a larger range. That means that in areas that experience semidiurnal tides, higher high tides and lower low tides are generally more likely. The effect is caused by the angle at which the moon tugs gravitationally on the Earth.
+\n\n
+        Saintilan and his colleagues found that mangrove forests experiencing semidiurnal tides tended to be larger and denser precisely when higher high tides were expected based on the moon’s orbit. The effect even seemed to outweigh other climatic drivers of mangrove growth, such as El Niño conditions. Other regions with mangroves, such as Vietnam and Indonesia, probably experience the same long-term trends, the team suggests.
+\n\n
+Having access to data stretching back decades was key to this discovery, Saintilan says. “We’ve never really picked up before some of these longer-term drivers of vegetation dynamics.”
+\n\n
+It’s important to recognize this effect on mangrove populations, says Octavio Aburto-Oropeza, a marine ecologist at the Scripps Institution of Oceanography in La Jolla, Calif., who was not involved in the research.
+\n\n
+        Scientists now know when some mangroves are particularly likely to flourish and should make an extra effort at those times to promote the growth of these carbon-sequestering trees, Aburto-Oropeza says. That might look like added limitations on human activity nearby that could harm the forests, he says. “We should be more proactive.”
+https://www.sciencenews.org/article/mangrove-forest-grow-moon-orbit-lunar-cycle
+    </string>
+</resources>

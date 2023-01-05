@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".add"
+    android:orientation="vertical"
+    android:paddingTop="50dp"
+    android:paddingStart="150dp"
+    >
+
+    <Button
+        android:id="@+id/btone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bt1"
+        tools:layout_editor_absoluteX="161dp"
+        tools:layout_editor_absoluteY="28dp"
+        android:onClick="satu"
+        />
+
+    <Button
+        android:id="@+id/bttwo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bt2"
+        tools:layout_editor_absoluteX="171dp"
+        tools:layout_editor_absoluteY="295dp"
+        android:onClick="dua"
+        />
+
+    <Button
+        android:id="@+id/btthree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bt3"
+        tools:layout_editor_absoluteX="161dp"
+        tools:layout_editor_absoluteY="651dp"
+        android:onClick="tiga"
+        />
+</LinearLayout>

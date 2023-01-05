@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-anydpi-v21_ic_favorite.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-pngs-8:\\drawable-anydpi-v21\\ic_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-xhdpi_ic_map.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\drawable-xhdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-xxhdpi_ic_map.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\drawable-xxhdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-xhdpi_ic_favorite.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-debug-14:\\drawable-xhdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-hdpi_ic_favorite.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-debug-14:\\drawable-hdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable_froyo_circle.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\drawable\\froyo_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-anydpi-v21_ic_status_info.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-pngs-8:\\drawable-anydpi-v21\\ic_status_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-mdpi_ic_status_info.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-debug-14:\\drawable-mdpi\\ic_status_info.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-hdpi_ic_map.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\drawable-hdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-pngs-8:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-xxxhdpi_ic_favorite.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-pngs-8:\\drawable-xxxhdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-hdpi_ic_shopping_cart.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\drawable-hdpi\\ic_shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-xxhdpi_ic_shopping_cart.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\drawable-xxhdpi\\ic_shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-pngs-8:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-xhdpi_ic_status_info.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-debug-14:\\drawable-xhdpi\\ic_status_info.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\layout_activity_order.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-ldpi_ic_status_info.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-pngs-8:\\drawable-ldpi\\ic_status_info.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-pngs-8:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-mdpi_ic_shopping_cart.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\drawable-mdpi\\ic_shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-xxxhdpi_ic_status_info.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-pngs-8:\\drawable-xxxhdpi\\ic_status_info.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-xhdpi_ic_shopping_cart.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\drawable-xhdpi\\ic_shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-pngs-8:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable_donut_circle.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\drawable\\donut_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-mdpi_ic_map.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\drawable-mdpi\\ic_map.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-pngs-8:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable_icecream_circle.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\drawable\\icecream_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-main-15:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-pngs-8:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-mdpi_ic_favorite.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-debug-14:\\drawable-mdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-xxhdpi_ic_favorite.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-debug-14:\\drawable-xxhdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-ldpi_ic_favorite.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-pngs-8:\\drawable-ldpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-pngs-8:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.android.homeworkdate.app-merged_res-13:/layout_fragment_date_picker.xml.flat",
+        "source": "com.example.android.homeworkdate.app-main-15:/layout/fragment_date_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-pngs-8:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-xxhdpi_ic_status_info.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-debug-14:\\drawable-xxhdpi\\ic_status_info.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-merged_res-13:\\drawable-hdpi_ic_status_info.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.4\\com.example.android.homeworkdate.app-debug-14:\\drawable-hdpi\\ic_status_info.png"
+    }
+]
